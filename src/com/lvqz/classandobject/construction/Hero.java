@@ -1,4 +1,4 @@
-package com.allifinance.classandobject.construction;
+package com.lvqz.classandobject.construction;
 
 /**
  * @author: lvqz

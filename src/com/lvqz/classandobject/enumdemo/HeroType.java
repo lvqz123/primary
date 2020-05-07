@@ -1,7 +1,7 @@
-package com.allifinance.classandobject.enumdemo;
+package com.lvqz.classandobject.enumdemo;
 
 /**
- * Á·Ï°Ã¶¾ÙÀà£¬Ó¢ÐÛÀàÐÍ
+ * ï¿½ï¿½Ï°Ã¶ï¿½ï¿½ï¿½à£¬Ó¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  */
 public enum HeroType {
     TANK,WIZARD,ASSASSIN,ASSIST,WARRIOR,RANGED,PUSH,FARMING

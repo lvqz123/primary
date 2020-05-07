@@ -1,4 +1,4 @@
-package com.allifinance.classandobject.typecast;
+package com.lvqz.classandobject.typecast;
 
 /**
  * @author: lvqz

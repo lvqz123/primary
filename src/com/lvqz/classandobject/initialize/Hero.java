@@ -1,10 +1,10 @@
-package com.allifinance.classandobject.initialize;
+package com.lvqz.classandobject.initialize;
 
 /**
  * @author: lvqz
  * @date: 2019/7/26
  * @time: 14:52
- * ÑéÖ¤Ò»ÏÂ¸÷¸ö³õÊ¼»¯µÄÏÈºóË³Ğò
+ * éªŒè¯ä¸€ä¸‹å„ä¸ªåˆå§‹åŒ–çš„å…ˆåé¡ºåº
  */
 public class Hero {
 
@@ -14,7 +14,7 @@ public class Hero {
         name = "one hero";  //1
     }*/
 /*    {
-        name = "the hero";  // ¾²Ì¬³õÊ¼»¯¿é  2
+        name = "the hero";  // é™æ€åˆå§‹åŒ–å—  2
     }*/
     
     public static void main(String [] args){

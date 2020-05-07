@@ -1,4 +1,4 @@
-package com.allifinance.classandobject.enumdemo;
+package com.lvqz.classandobject.enumdemo;
 
 
 /**

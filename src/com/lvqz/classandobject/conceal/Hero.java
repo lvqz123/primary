@@ -1,4 +1,4 @@
-package com.allifinance.classandobject.conceal;
+package com.lvqz.classandobject.conceal;
 
 /**
  * @author: lvqz

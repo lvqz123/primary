@@ -1,20 +1,20 @@
-package com.allifinance.classandobject.overloading;
+package com.lvqz.classandobject.overloading;
 
 /**
  * @author: lvqz
  * @date: 2019/7/26
  * @time: 11:24
- * Ó¢ĞÛÀà
+ * è‹±é›„ç±»
  */
 public class Hero {
 
-    String name; //ĞÕÃû
+    String name; //å§“å
 
-    float hp; //ÑªÁ¿
+    float hp; //è¡€é‡
 
-    float armor; //»¤¼×
+    float armor; //æŠ¤ç”²
 
-    int moveSpeed; //ÒÆ¶¯ËÙ¶È
+    int moveSpeed; //ç§»åŠ¨é€Ÿåº¦
 
     public String getName() {
         return name;
